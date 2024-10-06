@@ -2,6 +2,4 @@
  
 Is that a *motherfucking* **jojo reference?**
 
-## JoJo?
-
-### JoJo?
+[JoJo Reference?](https://www.youtube.com/watch?v=HaGkk60kcjQ)
