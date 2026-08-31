@@ -1,5 +1,3 @@
-# Facima-CC
- 
-Is that a *motherfucking* **jojo reference?** 🌟
+# Ciência da Computação - Atividades Acadêmicas
 
-[JoJo Reference?](https://www.youtube.com/watch?v=HaGkk60kcjQ)
+ Repositório destinado aos exercícios, atividades práticas e projetos desenvolvidos durante a graduação.
